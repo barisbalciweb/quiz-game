@@ -1,0 +1,804 @@
+[
+  {
+    "Frage": "Was definiert das 'href'-Attribut in einem HTML-Link?",
+    "A": "Den Stil des Links",
+    "B": "Das Ziel des Links",
+    "C": "Die Klasse des Links",
+    "D": "Die ID des Links",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft ändert die Schriftart eines Textes?",
+    "A": "font-style",
+    "B": "text-style",
+    "C": "font-family",
+    "D": "text-family",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie fügt man in HTML einen Zeilenumbruch ein?",
+    "A": "<br>",
+    "B": "<break>",
+    "C": "<linebreak>",
+    "D": "<lb>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welches Tag wird für den wichtigsten Inhaltsteil einer Webseite verwendet?",
+    "A": "<main>",
+    "B": "<header>",
+    "C": "<footer>",
+    "D": "<article>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was bedeutet 'CSS'?",
+    "A": "Computer Style Sheets",
+    "B": "Creative Style Sheets",
+    "C": "Cascading Style Sheets",
+    "D": "Compact Style Sheets",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Was ist der Zweck des 'alt'-Attributs in einem Bild-Tag?",
+    "A": "Um den Bildtitel anzugeben",
+    "B": "Um eine Beschreibung für SEO zu liefern",
+    "C": "Um einen alternativen Text für das Bild anzugeben, falls es nicht geladen wird",
+    "D": "Um die Bildgröße festzulegen",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welche Aussage über Inline-Elemente in HTML ist richtig?",
+    "A": "Sie nehmen immer die volle Breite ihres Elternelements ein",
+    "B": "Sie können andere Elemente umfließen",
+    "C": "Sie können nicht nebeneinander stehen",
+    "D": "Sie respektieren keine vertikalen Margen und Polsterungen",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was definiert die Eigenschaft 'z-index' in CSS?",
+    "A": "Die Transparenz eines Elements",
+    "B": "Die Stapelreihenfolge überlappender Elemente",
+    "C": "Die Zoomstufe eines Elements",
+    "D": "Die horizontale Ausrichtung eines Elements",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie definiert man in CSS eine Klasse?",
+    "A": "Mit einem #",
+    "B": "Mit einem .",
+    "C": "Mit einem @",
+    "D": "Mit einem !",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist der Standardwert der Eigenschaft 'position' in CSS?",
+    "A": "absolute",
+    "B": "fixed",
+    "C": "relative",
+    "D": "static",
+    "Antwort": "D"
+  },
+
+  {
+    "Frage": "Welches HTML-Element wird verwendet, um eine geordnete Liste zu definieren?",
+    "A": "<ul>",
+    "B": "<ol>",
+    "C": "<dl>",
+    "D": "<list>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie wählt man in CSS ein Element mit der ID 'menu' aus?",
+    "A": ".menu",
+    "B": "#menu",
+    "C": "menu",
+    "D": "*menu",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was bedeutet die Abkürzung HTML?",
+    "A": "Hyperlink and Text Markup Language",
+    "B": "Hyper Text Markup Language",
+    "C": "Highlevel Text Markup Language",
+    "D": "Hyper Tool Markup Language",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist der Zweck des 'alt'-Attributs in einem <img>-Tag?",
+    "A": "Um die Bildgröße zu definieren",
+    "B": "Um die Bildquelle anzugeben",
+    "C": "Um einen alternativen Text anzugeben, falls das Bild nicht geladen werden kann",
+    "D": "Um die Bildausrichtung zu steuern",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welches Tag wird in HTML verwendet, um den wichtigsten Inhaltsteil einer Webseite zu definieren?",
+    "A": "<main>",
+    "B": "<body>",
+    "C": "<header>",
+    "D": "<article>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft wird verwendet, um die Schriftgröße zu ändern?",
+    "A": "text-size",
+    "B": "font-size",
+    "C": "text-style",
+    "D": "font-style",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie definiert man einen Kommentar in HTML?",
+    "A": "// Kommentar",
+    "B": "<!-- Kommentar -->",
+    "C": "/* Kommentar */",
+    "D": "# Kommentar",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie stellt man in CSS sicher, dass ein Element immer im unteren Bereich der Seite bleibt?",
+    "A": "position: absolute; bottom: 0;",
+    "B": "position: fixed; bottom: 0;",
+    "C": "position: relative; bottom: 0;",
+    "D": "position: static; bottom: 0;",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welches Element wird in HTML verwendet, um einen Absatz zu definieren?",
+    "A": "<paragraph>",
+    "B": "<pg>",
+    "C": "<p>",
+    "D": "<text>",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft ändert die Farbe eines Textes?",
+    "A": "text-color",
+    "B": "color",
+    "C": "font-color",
+    "D": "background-color",
+    "Antwort": "B"
+  },
+
+  {
+    "Frage": "Wie definiert man in CSS eine Klasse namens 'nav'?",
+    "A": "#nav",
+    "B": ".nav",
+    "C": "nav",
+    "D": "*nav",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welches HTML-Element wird für den am häufigsten sichtbaren Teil einer Webseite verwendet?",
+    "A": "<head>",
+    "B": "<header>",
+    "C": "<body>",
+    "D": "<footer>",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft wird verwendet, um die Dicke eines Elementrahmens zu definieren?",
+    "A": "border-width",
+    "B": "frame-size",
+    "C": "border-size",
+    "D": "border-length",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie wählt man in CSS alle <p>-Elemente direkt in einem <div>-Element aus?",
+    "A": "div + p",
+    "B": "div p",
+    "C": "div.p",
+    "D": "div > p",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was macht die CSS-Eigenschaft 'display: none'?",
+    "A": "Versteckt ein Element, aber es nimmt weiterhin Platz ein",
+    "B": "Verändert die Anzeige eines Elements zu 'kein'",
+    "C": "Versteckt ein Element ohne Platz einzunehmen",
+    "D": "Entfernt ein Element aus dem DOM",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welches HTML-Tag wird verwendet, um eine unsortierte Liste zu definieren?",
+    "A": "<ul>",
+    "B": "<ol>",
+    "C": "<list>",
+    "D": "<usl>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was ist der Standardwert der Eigenschaft 'position' in CSS?",
+    "A": "absolute",
+    "B": "fixed",
+    "C": "relative",
+    "D": "static",
+    "Antwort": "D"
+  },
+  {
+    "Frage": "Wie setzt man in CSS den linken Rand eines Elements auf 20 Pixel?",
+    "A": "margin-left: 20;",
+    "B": "margin-left: 20px;",
+    "C": "padding-left: 20;",
+    "D": "padding-left: 20px;",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie fügt man in HTML einen Zeilenumbruch ein?",
+    "A": "<br>",
+    "B": "<break>",
+    "C": "<linebreak>",
+    "D": "<lb>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft steuert die Sichtbarkeit eines Elements?",
+    "A": "display",
+    "B": "visibility",
+    "C": "opacity",
+    "D": "view",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie definiert man in HTML ein Eingabefeld für Text?",
+    "A": "<input type='text'>",
+    "B": "<textfield>",
+    "C": "<input type='textfield'>",
+    "D": "<textinput>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft ändert die Schriftgröße eines Elements?",
+    "A": "font-size",
+    "B": "text-size",
+    "C": "font-weight",
+    "D": "text-style",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was ist der Zweck des 'title'-Attributs in einem HTML-Element?",
+    "A": "Den Textstil zu definieren",
+    "B": "Eine Tooltip-Beschreibung bereitzustellen",
+    "C": "Den Inhalt zu zentrieren",
+    "D": "Die Farbe zu ändern",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie fügt man in HTML ein Bild ein?",
+    "A": "<image src='bild.jpg'>",
+    "B": "<img src='bild.jpg'>",
+    "C": "<picture src='bild.jpg'>",
+    "D": "<graphics src='bild.jpg'>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was bewirkt die CSS-Eigenschaft 'overflow'?",
+    "A": "Kontrolliert, was passiert, wenn der Inhalt eines Elements dessen Rahmen überschreitet",
+    "B": "Ändert die Größe eines Elements",
+    "C": "Versteckt Inhalte außerhalb des Elements",
+    "D": "Erzeugt einen Bildlaufbalken innerhalb des Elements",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie definiert man in CSS, dass ein Text kursiv dargestellt wird?",
+    "A": "font-style: italic;",
+    "B": "text-style: italic;",
+    "C": "font-type: italic;",
+    "D": "text-type: italic;",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft wird verwendet, um die untere Begrenzung eines Elements zu definieren?",
+    "A": "border-bottom",
+    "B": "margin-bottom",
+    "C": "padding-bottom",
+    "D": "bottom-border",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie wählt man in CSS ein Element mit der Klasse 'sidebar' aus?",
+    "A": ".sidebar",
+    "B": "#sidebar",
+    "C": "sidebar",
+    "D": "*sidebar",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche Aussage über das <table>-Tag in HTML ist richtig?",
+    "A": "Es wird verwendet, um einen Absatz zu definieren",
+    "B": "Es wird verwendet, um ein Bild einzufügen",
+    "C": "Es wird verwendet, um eine Tabelle zu definieren",
+    "D": "Es wird verwendet, um einen Link zu erstellen",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Was bewirkt die CSS-Eigenschaft 'text-align: center;'?",
+    "A": "Zentriert ein Element auf der Seite",
+    "B": "Zentriert den Text innerhalb eines Elements",
+    "C": "Ändert die Schriftgröße auf zentrale Werte",
+    "D": "Vertikal zentriert den Text innerhalb eines Elements",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welche Aussage über das <iframe>-Tag in HTML ist richtig?",
+    "A": "Es wird verwendet, um einen Absatz zu definieren",
+    "B": "Es wird verwendet, um eine Tabelle zu definieren",
+    "C": "Es wird verwendet, um einen eingebetteten Frame (z.B. ein Video) anzuzeigen",
+    "D": "Es wird verwendet, um einen Link zu erstellen",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie definiert man in CSS eine Klasse für Elemente?",
+    "A": "Mit einem #",
+    "B": "Mit einem .",
+    "C": "Mit einem @",
+    "D": "Mit einem !",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was macht die CSS-Eigenschaft 'opacity: 0.5'?",
+    "A": "Macht das Element halbtransparent",
+    "B": "Verdoppelt die Sichtbarkeit des Elements",
+    "C": "Macht das Element unsichtbar",
+    "D": "Ändert die Farbe des Elements",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welches HTML-Tag wird verwendet, um eine Kopfzeile für ein Dokument oder einen Abschnitt zu definieren?",
+    "A": "<head>",
+    "B": "<header>",
+    "C": "<h1>",
+    "D": "<top>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft wird verwendet, um die Farbe des Hintergrunds eines Elements zu ändern?",
+    "A": "background-color",
+    "B": "background-image",
+    "C": "color",
+    "D": "opacity",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie definiert man in HTML eine Checkbox?",
+    "A": "<input type='checkbox'>",
+    "B": "<check>",
+    "C": "<box>",
+    "D": "<input type='check'>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was definiert die CSS-Eigenschaft 'border-radius'?",
+    "A": "Die Ränder eines Elements",
+    "B": "Die Ecken eines Elements",
+    "C": "Die Transparenz der Grenze",
+    "D": "Die Breite der Grenze",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie wählt man in CSS alle p-Elemente mit der Klasse 'intro' aus?",
+    "A": "p.intro",
+    "B": "p #intro",
+    "C": ".intro p",
+    "D": "#intro p",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie fügt man in HTML ein Video ein?",
+    "A": "<video src='video.mp4'>",
+    "B": "<media src='video.mp4'>",
+    "C": "<movie src='video.mp4'>",
+    "D": "<audio src='video.mp4'>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was bewirkt die CSS-Eigenschaft 'font-weight: bold;'?",
+    "A": "Macht den Text kursiv",
+    "B": "Ändert die Schriftart",
+    "C": "Macht den Text fett",
+    "D": "Ändert die Schriftgröße",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Für was steht das 'alt' Attribut bei einem HTML-Bild?",
+    "A": "Alternativer Text",
+    "B": "Änderungstext",
+    "C": "Animationstyp",
+    "D": "Ausrichtungstext",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft ändert die Schriftart?",
+    "A": "font-style",
+    "B": "text-style",
+    "C": "font-family",
+    "D": "text-family",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie stellt man in HTML ein Kommentar dar?",
+    "A": "// Kommentar",
+    "B": "<-- Kommentar -->",
+    "C": "/* Kommentar */",
+    "D": "<!-- Kommentar -->",
+    "Antwort": "D"
+  },
+  {
+    "Frage": "Welche Einheit ist eine relative Einheit in CSS?",
+    "A": "px",
+    "B": "cm",
+    "C": "em",
+    "D": "in",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie verlinkt man ein externes JavaScript-File in HTML?",
+    "A": "<script href='script.js'></script>",
+    "B": "<script name='script.js'></script>",
+    "C": "<script src='script.js'></script>",
+    "D": "<javascript file='script.js'></javascript>",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Was macht die CSS-Regel 'display: none;'?",
+    "A": "Versteckt ein Element, aber behält seinen Platz",
+    "B": "Entfernt ein Element und seinen Platz",
+    "C": "Reduziert die Opazität des Elements auf Null",
+    "D": "Ändert das Element in einen unsichtbaren Container",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie definiert man in HTML eine geordnete Liste?",
+    "A": "<ul>",
+    "B": "<ol>",
+    "C": "<dl>",
+    "D": "<list>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welches Attribut wird für responsive Bilder in HTML verwendet?",
+    "A": "responsive",
+    "B": "scale",
+    "C": "srcset",
+    "D": "adjust",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie wird 'float' in CSS hauptsächlich verwendet?",
+    "A": "Um Elemente zu zentrieren",
+    "B": "Um Elemente zu animieren",
+    "C": "Um Elemente neben einander zu positionieren",
+    "D": "Um die Schriftart zu ändern",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie fügt man in CSS einen Schatten zu einem Element hinzu?",
+    "A": "shadow: 5px 5px 5px #000;",
+    "B": "box-shadow: 5px 5px 5px #000;",
+    "C": "border-shadow: 5px 5px 5px #000;",
+    "D": "element-shadow: 5px 5px 5px #000;",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist die Standardmethode für ein HTML-Formular?",
+    "A": "GET",
+    "B": "POST",
+    "C": "PUT",
+    "D": "DELETE",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft stellt die Schriftgröße ein?",
+    "A": "font-weight",
+    "B": "font-style",
+    "C": "text-size",
+    "D": "font-size",
+    "Antwort": "D"
+  },
+  {
+    "Frage": "Wie erstellt man eine Tabelle in HTML?",
+    "A": "<table>",
+    "B": "<tab>",
+    "C": "<tb>",
+    "D": "<tbl>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was bewirkt die CSS-Eigenschaft 'visibility: hidden;'?",
+    "A": "Macht das Element unsichtbar und behält den Platz",
+    "B": "Entfernt das Element und seinen Platz",
+    "C": "Reduziert die Opazität des Elements auf Null",
+    "D": "Ändert das Element in einen unsichtbaren Container",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie wählt man alle <p>-Elemente in einem <div>-Element in CSS aus?",
+    "A": "div p",
+    "B": "div > p",
+    "C": "div + p",
+    "D": "div ~ p",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was ist der Zweck des 'title'-Attributs in HTML?",
+    "A": "Definiert den Titel des Dokuments",
+    "B": "Erzeugt einen Tooltip-Text",
+    "C": "Gibt den Namen des Dokuments an",
+    "D": "Ändert die Schriftgröße des Titels",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie definiert man in CSS, dass ein Element flexibel sein soll?",
+    "A": "display: block;",
+    "B": "display: flex;",
+    "C": "display: grid;",
+    "D": "display: inline;",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie erstellt man einen internen Link in HTML?",
+    "A": "<a href='#section1'>",
+    "B": "<link to='section1'>",
+    "C": "<a link='#section1'>",
+    "D": "<a href='section1'>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie setzt man eine Hintergrundfarbe in CSS?",
+    "A": "background-color: #FFFFFF;",
+    "B": "bgcolor: #FFFFFF;",
+    "C": "color: #FFFFFF;",
+    "D": "background: #FFFFFF;",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was ist der Zweck von 'doctype' in HTML?",
+    "A": "Definiert die Dokumenttyp-Deklaration",
+    "B": "Gibt den Titel des Dokuments an",
+    "C": "Stellt die Verbindung zu CSS her",
+    "D": "Definiert JavaScript-Funktionen",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie definiert man einen Kopfbereich in einem HTML-Dokument?",
+    "A": "<header>",
+    "B": "<head>",
+    "C": "<top>",
+    "D": "<heading>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft setzt den Abstand zwischen den Buchstaben?",
+    "A": "text-spacing",
+    "B": "letter-spacing",
+    "C": "font-spacing",
+    "D": "character-spacing",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie fügt man in HTML ein Video ein?",
+    "A": "<media type='video'>",
+    "B": "<video src='movie.mp4'>",
+    "C": "<movie source='movie.mp4'>",
+    "D": "<stream video='movie.mp4'>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist der Zweck von CSS?",
+    "A": "Strukturieren des HTML-Dokuments",
+    "B": "Hinzufügen von Verhalten zu HTML-Elementen",
+    "C": "Styling von HTML-Dokumenten",
+    "D": "Speichern von Daten im HTML-Dokument",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welche Aussage über 'class' und 'id' in HTML ist richtig?",
+    "A": "'class' ist einmalig, 'id' kann mehrfach verwendet werden",
+    "B": "'id' ist einmalig, 'class' kann mehrfach verwendet werden",
+    "C": "Sowohl 'class' als auch 'id' sind einmalig",
+    "D": "Sowohl 'class' als auch 'id' können mehrfach verwendet werden",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie stellt man in CSS die Breite eines Elements ein?",
+    "A": "margin",
+    "B": "length",
+    "C": "width",
+    "D": "size",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welches HTML-Element wird für ein Absatz verwendet?",
+    "A": "<paragraph>",
+    "B": "<text>",
+    "C": "<p>",
+    "D": "<para>",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Wie definiert man einen Inline-Stil in HTML?",
+    "A": "<style='color: red;'>",
+    "B": "<p style='color: red;'>",
+    "C": "<inline style='color: red;'>",
+    "D": "<html style='color: red;'>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was bewirkt die CSS-Eigenschaft 'text-align: right;'?",
+    "A": "Rechtsbündige Ausrichtung des Textes",
+    "B": "Rechtsbündiges Rotieren des Textes",
+    "C": "Rechtsbündiges Kippen des Textes",
+    "D": "Rechtsbündiges Strecken des Textes",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie definiert man eine JavaScript-Datei in HTML?",
+    "A": "<script type='text/javascript' src='script.js'></script>",
+    "B": "<javascript src='script.js'></javascript>",
+    "C": "<js file='script.js'></js>",
+    "D": "<scripting src='script.js'></scripting>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welches Tag wird in HTML für einen Zeilenumbruch verwendet?",
+    "A": "<lb>",
+    "B": "<br>",
+    "C": "<break>",
+    "D": "<line>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie setzt man den Hintergrund einer Webseite in CSS?",
+    "A": "background: url('image.jpg');",
+    "B": "background-image: url('image.jpg');",
+    "C": "bg-image: url('image.jpg');",
+    "D": "background-src: url('image.jpg');",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie wählt man in CSS alle <p>-Elemente mit der Klasse 'text' aus?",
+    "A": "p.text",
+    "B": ".text p",
+    "C": "p + .text",
+    "D": ".text > p",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Was bedeutet 'HTML'?",
+    "A": "HyperText Markup Language",
+    "B": "HighText Machine Language",
+    "C": "HyperTool Multi Language",
+    "D": "HighText Markup Language",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie erstellt man in CSS einen runden Rand?",
+    "A": "border-round: 10px;",
+    "B": "border-radius: 10px;",
+    "C": "border-curve: 10px;",
+    "D": "round-border: 10px;",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie bindet man ein CSS-Stylesheet in HTML ein?",
+    "A": "<stylesheet href='style.css'>",
+    "B": "<link rel='stylesheet' type='text/css' href='style.css'>",
+    "C": "<css src='style.css'>",
+    "D": "<style src='style.css'>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist der Standardwert der CSS-Eigenschaft 'position'?",
+    "A": "relative",
+    "B": "fixed",
+    "C": "absolute",
+    "D": "static",
+    "Antwort": "D"
+  },
+  {
+    "Frage": "Wie definiert man in HTML eine Checkbox?",
+    "A": "<input type='checkbox'>",
+    "B": "<checkbox>",
+    "C": "<input type='check'>",
+    "D": "<check type='box'>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie wählt man in CSS das erste Kind eines <ul>-Elements aus?",
+    "A": "ul:first-child",
+    "B": "ul > li:first-child",
+    "C": "ul li:first",
+    "D": "ul:first-of-type",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was bewirkt die Eigenschaft 'overflow: hidden;' in CSS?",
+    "A": "Versteckt den Inhalt außerhalb des Elements",
+    "B": "Blendet das Element vollständig aus",
+    "C": "Reduziert die Größe des Elements",
+    "D": "Erzeugt einen Bildlauf innerhalb des Elements",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie erstellt man in HTML einen internen Link zu einem Seitenabschnitt?",
+    "A": "<a href='#section'>Zum Abschnitt</a>",
+    "B": "<link to='#section'>Zum Abschnitt</link>",
+    "C": "<a link='#section'>Zum Abschnitt</a>",
+    "D": "<goto section='#section'>Zum Abschnitt</goto>",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft ändert die Textfarbe?",
+    "A": "font-color",
+    "B": "color",
+    "C": "text-color",
+    "D": "foreground-color",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie fügt man in HTML ein Audio-Element ein?",
+    "A": "<sound src='audio.mp3'>",
+    "B": "<audio src='audio.mp3'></audio>",
+    "C": "<mp3 source='audio.mp3'></mp3>",
+    "D": "<listen src='audio.mp3'></listen>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was bedeutet die CSS-Eigenschaft 'opacity: 0.5;'?",
+    "A": "Das Element wird zu 50% transparent",
+    "B": "Das Element wird vollständig undurchsichtig",
+    "C": "Die Farbe des Elements wird um 50% dunkler",
+    "D": "Die Farbe des Elements wird um 50% heller",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie definiert man in HTML ein Dropdown-Menü?",
+    "A": "<dropdown>",
+    "B": "<select>",
+    "C": "<option-menu>",
+    "D": "<listbox>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Welche CSS-Eigenschaft bestimmt die Schriftgröße?",
+    "A": "font-size",
+    "B": "text-size",
+    "C": "font-weight",
+    "D": "text-style",
+    "Antwort": "A"
+  },
+  {
+    "Frage": "Wie fügt man in HTML ein Bild ein?",
+    "A": "<image src='bild.jpg'>",
+    "B": "<img src='bild.jpg'>",
+    "C": "<graphics src='bild.jpg'>",
+    "D": "<picture source='bild.jpg'>",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Was ist der Zweck von 'z-index' in CSS?",
+    "A": "Ändert die Schriftgröße eines Elements",
+    "B": "Bestimmt die Stapelreihenfolge von überlappenden Elementen",
+    "C": "Passt die Breite eines Elements an",
+    "D": "Definiert die Hintergrundfarbe eines Elements",
+    "Antwort": "B"
+  },
+  {
+    "Frage": "Wie erstellt man in HTML eine geordnete Liste?",
+    "A": "<list type='ordered'>",
+    "B": "<ul type='1'>",
+    "C": "<ol>",
+    "D": "<dl>",
+    "Antwort": "C"
+  },
+  {
+    "Frage": "Welche Aussage über 'margin' und 'padding' in CSS ist richtig?",
+    "A": "'margin' ist der innere Abstand, 'padding' der äußere Abstand eines Elements",
+    "B": "'padding' ist der innere Abstand, 'margin' der äußere Abstand eines Elements",
+    "C": "'margin' und 'padding' sind Synonyme",
+    "D": "'margin' beeinflusst die Größe, 'padding' die Farbe eines Elements",
+    "Antwort": "B"
+  }
+]

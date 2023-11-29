@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <title>Spiel</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="questions">
+        <p id="question"></p>
+      </div>
+      <form class="answers" id="answers">
+        <input
+          id="A"
+          class="answer-radio"
+          type="radio"
+          name="answer"
+          value="A" />
+        <label id="A-label" for="A"></label>
+
+        <input
+          id="B"
+          class="answer-radio"
+          type="radio"
+          name="answer"
+          value="B" />
+        <label id="B-label" for="B"></label>
+
+        <input
+          id="C"
+          class="answer-radio"
+          type="radio"
+          name="answer"
+          value="C" />
+        <label id="C-label" for="C"></label>
+
+        <input
+          id="D"
+          class="answer-radio"
+          type="radio"
+          name="answer"
+          value="D" />
+        <label id="D-label" for="D"></label>
+      </form>
+
+      <div class="next-question-div">
+        <div class="next-question">
+          <a class="next-input" href="/game">Nächste Frage</a>
+        </div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
