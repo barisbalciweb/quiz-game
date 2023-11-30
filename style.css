@@ -64,6 +64,14 @@ body {
   flex-direction: column;
 }
 
+#question {
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 .questions {
   background-color: var(--question-background);
   height: 50%;
@@ -108,7 +116,7 @@ label:hover {
 
 .next-question {
   background-color: green;
-  width: 13%;
+  width: 200px;
   padding: 10px;
   font-size: 20px;
   text-align: center;
@@ -116,10 +124,6 @@ label:hover {
 
 .next-question:hover {
   background-color: rgb(82, 163, 82);
-  width: 13%;
-  padding: 10px;
-  font-size: 20px;
-  text-align: center;
 }
 
 .next-button::after {
@@ -144,4 +148,21 @@ footer {
   bottom: 0;
   right: 0;
   color: white;
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    font-size: 20px;
+  }
+  .container {
+    width: 100%;
+  }
+
+  .next-question-div {
+    justify-content: center;
+  }
+  .next-question {
+    width: 120px;
+    font-size: 15px;
+  }
 }
