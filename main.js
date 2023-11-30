@@ -1,7 +1,5 @@
 fetchData();
 
-let answer;
-
 async function fetchData() {
   try {
     let response = await fetch("./questions.json");
@@ -51,6 +49,7 @@ function answerCheck(par) {
     return;
   }
   let label = document.getElementById(par + "-label");
+
   if (answer == par) {
     label.style.backgroundColor = "green";
     isAnswerSelected = true;
@@ -60,16 +59,10 @@ function answerCheck(par) {
     label.style.backgroundColor = "green";
     isAnswerSelected = true;
   }
-  setTimeout(reload, 3000);
+
+  setTimeout(reload, 2500);
 
   function reload() {
     location.reload();
   }
 }
-
-// DOM Manipulation ya da tag icinde script kullanarak objeden ilgili nesleneri cagir
-// bir sonraki soruya gecmesi icin ayni varible ye kosuldan sonra baska bir veri tanimla.
-// bunu da döngü ile yap.
-// dogru veya yanlis cevapta settimeintervall kullanabilirsin yaniü sönme efekti icin
-// dogru ve yanlis cevap sayisina göre bir sayac hazirla ve onu her seferinde güncelle ve
-// oyun sonunda skor olarak göster

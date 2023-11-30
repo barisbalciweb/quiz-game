@@ -44,6 +44,12 @@ body {
   background-color: red;
 }
 
+.click:hover {
+  width: 100px;
+  padding: 10px;
+  background-color: rgb(233, 135, 135);
+}
+
 .button-div {
   display: flex;
   justify-content: center;
@@ -127,4 +133,15 @@ a:link,
 a:visited {
   color: white;
   text-decoration: none;
+}
+
+/* FOOTER */
+
+footer {
+  font-family: "Courier New", Courier, monospace;
+  padding-right: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: white;
 }
