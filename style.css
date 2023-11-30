@@ -21,6 +21,7 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-color: black;
@@ -81,6 +82,7 @@ body {
 }
 
 .answers {
+  font-size: 20px;
   height: 50%;
   background-color: var(--answer-background);
   display: flex;
@@ -112,6 +114,7 @@ label:hover {
   display: flex;
   justify-content: flex-end;
   margin-top: 10px;
+  margin-right: 10px;
 }
 
 .next-question {
@@ -142,12 +145,15 @@ a:visited {
 /* FOOTER */
 
 footer {
+  font-size: 12px;
   font-family: "Courier New", Courier, monospace;
   padding-right: 10px;
+  display: flex;
+  justify-content: center;
   position: absolute;
   bottom: 0;
-  right: 0;
   color: white;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -158,11 +164,14 @@ footer {
     width: 100%;
   }
 
-  .next-question-div {
+  /* .next-question-div {
     justify-content: center;
-  }
+  } */
   .next-question {
     width: 120px;
     font-size: 15px;
+  }
+  .answers {
+    font-size: 17px;
   }
 }
