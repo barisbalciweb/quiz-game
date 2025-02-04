@@ -1,4 +1,4 @@
-# [https://barisbalcimusic.github.io/millionaer/](https://barisbalcimusic.github.io/millionaer/)
+# [Live Demo](https://barisbalciweb.github.io/quiz-game/)
 
 ## Description
 self created exercise with basic use of DOM-Manipulation (Nov 30, 2023)
